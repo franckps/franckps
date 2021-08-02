@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @franckps
-- 🏢 I work for Veloso group as Dev
+- 🏢 I work for ACT as a Backend dev
 - 💻 Nodejs, Javascript, Typescript, PostgreSQL, MongoDB
 - 🌱 I’m currently learning Typescripy, TDD and Clean Architecture
 - 📫 How to reach me: fran.p.s@hotmail.com
